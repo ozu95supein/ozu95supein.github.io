@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\webfonts"
   ],
-  "SelectedNode": "\\education.html",
+  "SelectedNode": "\\assets\\webfonts\\fa-brands-400.eot",
   "PreviewInSolutionExplorer": false
 }
